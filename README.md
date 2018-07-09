@@ -38,8 +38,8 @@ For example: https://msdn.microsoft.com/en-us/library/zkx076cy.aspx
 
 Md. Sultanul Arefin.
 
-	Twitter:	https://twitter.com/mdsultanul
-	LinkedIn:	https://linkedin.com/in/mdarefin28/
+Twitter: https://twitter.com/mdsultanul
+LinkedIn: https://linkedin.com/in/mdarefin28/
 
 
 
